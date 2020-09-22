@@ -1,2 +1,0 @@
-# rhemalamp
-RhemaLamp Website
