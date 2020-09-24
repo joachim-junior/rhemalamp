@@ -33,10 +33,16 @@
                                 <a href="#"><span class="fa fa-chevron-right mr-2"></span>Join us</a>
                             </li>
                             <li>
-                                <a href="#"><span class="fa fa-chevron-right mr-2"></span>Privacy Policy</a>
+                                <a href="<?php echo base_url(); ?>subscription_agreement"><span class="fa fa-chevron-right mr-2"></span>Subscription Agreement</a>
                             </li>
                             <li>
-                                <a href="#"><span class="fa fa-chevron-right mr-2"></span>Terms &amp;
+                                <a href="<?php echo base_url(); ?>author_agreement"><span class="fa fa-chevron-right mr-2"></span>Author Agreement</a>
+                            </li>
+                            <li>
+                                <a href="<?php echo base_url(); ?>privacy_policy"><span class="fa fa-chevron-right mr-2"></span>Privacy Policy</a>
+                            </li>
+                            <li>
+                                <a href="<?php echo base_url(); ?>terms_and_conditions"><span class="fa fa-chevron-right mr-2"></span>Terms &amp;
                                     Conditions</a>
                             </li>
                         </ul>

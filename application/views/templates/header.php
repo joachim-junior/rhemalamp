@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>RhemaLamp - Thy Word, a light unto my path</title>
+    <title>RhemaLamp - Thy Word, a light unto my path <br> <?= $title ?></title>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <link rel="icon" type="image/x-icon" href="<?php echo base_url(); ?>favicon.ico" />
